@@ -17,8 +17,12 @@
 <img width="544" alt="522" src="https://github.com/Elamranihouda/TP1-Injection-des-dependances/assets/96799465/26778e90-90b6-4cfb-bb79-d7d10b626e14">
 #### c. En utilisant le Framework Spring : Nous avons utilisé Spring, un framework populaire pour le développement d'applications Java, pour gérer l'injection des dépendances de manière plus efficace. Nous avons exploré deux approches :
 
-#### Version XML : En configurant les dépendances dans un fichier XML de configuration, décrivant les relations entre les différents composants de l'application.
+##### Version XML : En configurant les dépendances dans un fichier XML de configuration, décrivant les relations entre les différents composants de l'application.
+<img width="604" alt="xml" src="https://github.com/Elamranihouda/TP1-Injection-des-dependances/assets/96799465/23b7a08b-c7bd-45a0-ba4c-17bd38d1ad9a">
 <img width="740" alt="61" src="https://github.com/Elamranihouda/TP1-Injection-des-dependances/assets/96799465/5c88029b-0e64-4852-941f-60a3c120e6cb">.
-#### Version Annotations : En utilisant les annotations fournies par Spring telles que @Autowired pour indiquer les dépendances à injecter directement dans le code source.
+
+##### Version Annotations : En utilisant les annotations fournies par Spring telles que @Autowired pour indiquer les dépendances à injecter directement dans le code source.
+<img width="416" alt="dao" src="https://github.com/Elamranihouda/TP1-Injection-des-dependances/assets/96799465/7b152501-b9bf-4bb8-b106-b86c98a08b54">
+<img width="506" alt="metier" src="https://github.com/Elamranihouda/TP1-Injection-des-dependances/assets/96799465/7eb824ca-ea66-4d62-9549-a938caee6eb0">
 <img width="704" alt="62" src="https://github.com/Elamranihouda/TP1-Injection-des-dependances/assets/96799465/206d85b2-4f94-404f-8617-c92c64f45e4c">
 
